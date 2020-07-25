@@ -65,3 +65,5 @@ gem "twitter-bootstrap-rails"
 gem "rolify"
 gem 'rails_admin', '~> 2.0'
 gem 'jquery-rails'
+gem 'faker'
+gem 'jquery-datatables'
